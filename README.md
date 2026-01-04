@@ -10,7 +10,7 @@ The dataset contains order-level delivery information from multiple e-commerce p
 - Product categories
 - Order value (INR)
 - Customer feedback and service ratings
-- Refund request status
+- Refund request status 
 
 ## Key Metrics Analyzed
 - Average delivery time by platform
